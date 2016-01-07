@@ -17,12 +17,12 @@ MVC源码 https://github.com/aspnet/Mvc
 
 ## 所有主题
 ### 开始
-	- [在Windows安装 ASP.NET 5](Content/GettingStarted/install-on-window.md)
-	- 在苹果电脑上安装 ASP.NET 5
-	- 在 Linux 上安装 ASP.NET 5
-	- 给服务器选择合适的 .NET
+- [在Windows安装 ASP.NET 5](Content/GettingStarted/install-on-window.md)
+- 在苹果电脑上安装 ASP.NET 5
+- 在 Linux 上安装 ASP.NET 5
+- 给服务器选择合适的 .NET
 ### 入门指南
-	- 使用 Visual Studio 编写第一个 ASP.NET 5 Web 应用
-	- 在苹果电脑上编写第一 ASP.NET 5 应用
-	- 使用 Visual Studio 将应用发布到微软云平台
-	- ASP.NET 5 和 微软云服务 
+- 使用 Visual Studio 编写第一个 ASP.NET 5 Web 应用
+- 在苹果电脑上编写第一 ASP.NET 5 应用
+- 使用 Visual Studio 将应用发布到微软云平台
+- ASP.NET 5 和 微软云服务 
